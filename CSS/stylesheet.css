@@ -1,0 +1,143 @@
+nav{
+    position: fixed;
+}
+
+.navbar{
+    background:linear-gradient(35deg,#FA7268, #868686);
+}
+
+.miff{
+    width: 90%;
+    height:350px;
+}
+
+#sk-Logo{
+    max-width: 70px;
+}
+
+    #sk-Logo:hover{
+        background-color: #99DEDF;
+    }
+
+.navbar-nav{
+    font-weight: bolder;
+    font-size:20px;
+ 
+}
+
+.navbar-collapse{
+padding-left: 40px;
+}
+.no-gutters{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.nav-item:hover{
+    background-color: #99DEDF;
+    color:rgb(68, 68, 68);
+}
+
+#jumbo01{
+    background-image: url("../images/bg.jpg");
+    background-size: 100%;
+    text-align: center;
+    height:700px;
+
+}
+
+#title00{
+    text-size-adjust: 2em;
+}
+.display-4{
+    margin-bottom: 1em;
+}
+
+
+.container01{
+    padding-top: 170px;
+}
+.jumbotron{
+    background-color:#ededed;
+    height:850px;
+    opacity: 1;
+    margin-bottom: .5rem;
+
+
+}
+
+h1, h2{
+    color: #FA7268;
+}
+#hearts{
+    height:350px;
+}
+
+#himage{
+    height:300px;
+}
+
+#connect{
+    margin-top:30px;
+    margin-bottom: 30px;
+}
+
+.btn{
+    background-color: rgb(245, 198, 43);
+    color:rgb(68, 68, 68);
+    border-color: white;
+   
+}
+
+    .btn:hover{
+        background-color: #99DEDF;
+        color:rgb(68, 68, 68);
+        border-color: white;
+    }
+
+#section2{
+    text-align: center;
+    padding-top:60px;
+}
+
+#cards{
+    height: 750px;
+}
+
+.cardImage{
+    height: 300px;
+}
+
+.card{
+    margin-top:60px;
+    margin-bottom: 60px;
+}
+
+.card-deck{
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
+
+table{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color:#ededed;
+    height:500px;
+}
+
+#skilltitle{
+   margin-top:40px;
+   margin-bottom: 40px;
+   padding-top: 60px;
+   padding-bottom: 60px;
+}
+.page-footer{
+    background: linear-gradient(90deg, #99DEDF, grey);
+}
+
+
+.icon{
+height:50px;
+}
